@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hsgdhehdhdh
+- 👀 I’m interested in coding with html and js
+- 🌱 I’m currently learning html, css, and js
